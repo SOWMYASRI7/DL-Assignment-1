@@ -37,7 +37,7 @@ The model was trained using various hyperparameters:
 
 ## Results & Findings
 
-### Best Configurations
+### Configurations
 
 | Configuration | Hidden Layers      | Optimizer | Batch Size | Activation | Val Accuracy | Test Accuracy |
 | ------------- | ------------------ | --------- | ---------- | ---------- | ------------ | ------------- |
